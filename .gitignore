@@ -1,0 +1,14 @@
+/bin/
+/out/
+.gradle
+build
+.classpath
+.settings
+.project
+*.iws
+*.ipr
+.idea
+01-social-network-kata.iml mockito.iml session-01-social-network-kata.iml
+/*.iml
+/gradle
+/target
